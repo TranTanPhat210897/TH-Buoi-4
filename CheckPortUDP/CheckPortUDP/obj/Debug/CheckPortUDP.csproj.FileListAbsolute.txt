@@ -1,0 +1,6 @@
+F:\Study\LapTrinhMang\TH-Buoi-4\PortUDP\CheckPortUDP\CheckPortUDP\bin\Debug\CheckPortUDP.exe.config
+F:\Study\LapTrinhMang\TH-Buoi-4\PortUDP\CheckPortUDP\CheckPortUDP\bin\Debug\CheckPortUDP.exe
+F:\Study\LapTrinhMang\TH-Buoi-4\PortUDP\CheckPortUDP\CheckPortUDP\bin\Debug\CheckPortUDP.pdb
+F:\Study\LapTrinhMang\TH-Buoi-4\PortUDP\CheckPortUDP\CheckPortUDP\obj\Debug\CheckPortUDP.csprojResolveAssemblyReference.cache
+F:\Study\LapTrinhMang\TH-Buoi-4\PortUDP\CheckPortUDP\CheckPortUDP\obj\Debug\CheckPortUDP.exe
+F:\Study\LapTrinhMang\TH-Buoi-4\PortUDP\CheckPortUDP\CheckPortUDP\obj\Debug\CheckPortUDP.pdb
